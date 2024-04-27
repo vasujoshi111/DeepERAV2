@@ -1,0 +1,4 @@
+classes=1
+train=data/buffalo/train.txt
+valid=data/buffalo/val.txt 
+names=data/buffalo/custom.names
