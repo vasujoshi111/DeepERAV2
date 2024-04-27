@@ -28,4 +28,4 @@ Training Logs:
 
 Some results are shown here:
 
-![PredictionResults](./Capture.PNG)
+![PredictionResults](image-3.png)
