@@ -23,6 +23,9 @@ Number of classes: 1
 Class Name: buffalo
 
 We got acceptable accuracy and prediction results also.
+
 Training Logs: 
 
 Some results are shown here:
+
+![PredictionResults](./Capture.PNG)
