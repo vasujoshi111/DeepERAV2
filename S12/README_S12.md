@@ -24,7 +24,7 @@ Class Name: buffalo
 
 We got acceptable accuracy and prediction results also.
 
-Training Logs: 
+Training Logs can be seen in nohup.out
 
 Some results are shown here:
 
