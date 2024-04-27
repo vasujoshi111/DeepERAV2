@@ -1,4 +1,4 @@
-## S11
+## S12
 **Objective: Train YOLO V3 Model with acceptence accuracy and understad the concepts behind object detection and usage of annotation tool.**
 
 Here is the network architecture:
