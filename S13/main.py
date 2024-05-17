@@ -26,7 +26,7 @@ import numpy as np
 from albumentations.pytorch import ToTensorV2
 from torchvision.datasets import CIFAR10
 from torch.utils.data import DataLoader
-
+from models.resnet import LitResnet
 
 means = [0.4914, 0.4822, 0.4465]
 stds = [0.2470, 0.2435, 0.2616]
@@ -103,3 +103,4 @@ def train(cifar10_dm, new_lr):
 
     trainer.fit(model, cifar10_dm)
     trainer.test(model, cifar10_dm)
+    return model, trainer
