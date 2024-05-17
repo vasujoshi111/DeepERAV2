@@ -1,0 +1,6 @@
+train: data/buffalo/train/images
+val: data/buffalo/val/images
+test: data/buffalo/test/images
+
+nc: 1
+names: ["buffalo"]
