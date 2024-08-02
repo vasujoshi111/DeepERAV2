@@ -17,4 +17,8 @@ There are three main components in latent diffusion:
 
 HuggingFace App: https://huggingface.co/spaces/Vasudevakrishna/ERAV2_S24
 
+A Sample Output from hugging face app:
+
+![ScreenShot](image.png)
+
 Please go through the code and comments to get deeper intuitions.
